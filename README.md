@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tjalani
+- 👋 Hi, I’m @tjalani, a software engineer currently honing my skills in wed development
 
 
 <!---
