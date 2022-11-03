@@ -36,14 +36,7 @@
 <img align="left" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"/><br>
 
-1. HTML 
-2. CSS
-3. SASS
-4. TAILWIND CSS
-5. JAVASCRIPT
-6. REACT.JS
-7. NODE.JS
-8. MONGO-DB
+
 
 
 
