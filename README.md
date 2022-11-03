@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Tajudeen Lukuman Aleru, a software engineer currently honing my skills in web development
+- 👋 Hi, I’m Tajudeen Lukuman Aleru.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjalani&show_icons=true&theme=radical)
 
 ## Tools
 
