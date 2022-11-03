@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Tajudeen Lukuman Aleru.
+# Hi there, I’m Tajudeen Lukuman Aleru 👋.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjalani&show_icons=true&theme=radical)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tjalani&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjalani&layout=compact" />
+
+
 
 ## Tools
 
